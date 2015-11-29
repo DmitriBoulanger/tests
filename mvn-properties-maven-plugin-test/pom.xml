@@ -36,6 +36,18 @@ the corresponding maven-variables
 			<artifactId>maven-plugin-testing-harness</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>de.dbo.tools</groupId>
+			<artifactId>print</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<scope>test</scope>
+		</dependency>
 	</dependencies>
-
 </project>

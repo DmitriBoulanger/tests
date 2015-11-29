@@ -49,21 +49,6 @@
 		</plugins>
 	</build>
 
-	<dependencies>
-		<dependency>
-			<groupId>de.dbo.tools</groupId>
-			<artifactId>print</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-api</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-log4j12</artifactId>
-		</dependency>
-	</dependencies>
-
 	<modules>
 		<module>mvn-properties-maven-plugin-test-usage-from-parent</module>
 	</modules>
