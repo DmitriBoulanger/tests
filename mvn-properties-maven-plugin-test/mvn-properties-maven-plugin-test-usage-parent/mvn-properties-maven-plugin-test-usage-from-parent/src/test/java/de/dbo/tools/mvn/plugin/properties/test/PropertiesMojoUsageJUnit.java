@@ -16,8 +16,8 @@ import org.slf4j.LoggerFactory;
  *           only incidentally for computers to execute
  *
  */
-public class PropertiesMojoUsageTest {
-	private static final Logger log = LoggerFactory.getLogger( PropertiesMojoUsageTest.class);
+public class PropertiesMojoUsageJUnit {
+	private static final Logger log = LoggerFactory.getLogger( PropertiesMojoUsageJUnit.class);
 
 	@Test
 	public void properties() {
