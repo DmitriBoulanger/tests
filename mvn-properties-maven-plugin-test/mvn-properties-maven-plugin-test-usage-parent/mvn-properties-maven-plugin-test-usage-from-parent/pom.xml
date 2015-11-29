@@ -52,7 +52,7 @@ If Maven-test is used, the values of the system properties are verified in the J
 				<artifactId>maven-antrun-plugin</artifactId>
 				<executions>
 					<execution>
-						<phase>package</phase>
+						<phase>test</phase>
 						<goals>
 							<goal>run</goal>
 						</goals>
