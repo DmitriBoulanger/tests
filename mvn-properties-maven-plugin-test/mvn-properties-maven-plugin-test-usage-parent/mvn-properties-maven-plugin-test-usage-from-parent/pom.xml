@@ -10,7 +10,7 @@
 	
 	<artifactId>mvn-properties-maven-plugin-test-usage-from-parent</artifactId>
 	
-	<name>MVN Plugins - Properties Test-Usage from parent</name>
+	<name>Test - MVN - Properties - Usage from parent</name>
 	<description>
 Test artifact to show usage of the Properties Plug-in.
 It reads artifact-jars containing properties as resource-files 
